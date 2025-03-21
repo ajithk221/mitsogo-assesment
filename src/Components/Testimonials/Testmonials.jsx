@@ -12,7 +12,7 @@ const testimonials = [
     author: 'Dalibor Kruljac, KAMELEYA LTD',
     image: 'dalibor-kruljac.png',
   },
-  // Add more testimonials as needed
+  // We can add more testimonials as needed
 ];
 
 const Testimonials = () => (

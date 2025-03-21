@@ -12,7 +12,7 @@ const additionalFeatures = [
     description: 'Ensure data protection even in case of device loss.',
     icon: 'data-security-icon.png',
   },
-  // Add more features as needed
+  //We can add more features as needed
 ];
 
 const AdditionalFeatures = () => (

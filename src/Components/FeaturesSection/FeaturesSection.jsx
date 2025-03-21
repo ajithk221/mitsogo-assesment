@@ -12,7 +12,7 @@ const features = [
     description: 'Allow access to multiple specified applications.',
     image: 'multi-app-kiosk.png',
   },
-  // Add more features as needed
+  // We can add more features as needed
 ];
 
 const FeaturesSection = () => (
